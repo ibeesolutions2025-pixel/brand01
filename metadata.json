@@ -1,0 +1,5 @@
+{
+  "name": "VeoAsset Creator",
+  "description": "Ứng dụng AI tạo nguyên liệu đầu vào (hình ảnh, prompt, lời thoại) cho video Veo 3 chuyên nghiệp.",
+  "requestFramePermissions": []
+}
